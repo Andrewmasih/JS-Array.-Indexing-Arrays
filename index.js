@@ -7,4 +7,4 @@ console.log(customersOfMyBank[2]);
 console.log(customersOfMyBank[3]);
 console.log(customersOfMyBank[4]);
 
-
+/* if you want to access an item from the Array, just use the index number in the bracket [ ],  */
